@@ -1,6 +1,6 @@
 {
   "name": "lerna2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "lerna2",
   "keywords": [
     "lerna2"
@@ -26,9 +26,9 @@
     "lerna2": "cli.js"
   },
   "dependencies": {
-    "@lerna2/cli": "^0.0.3",
-    "@lerna2/create": "^0.0.3",
-    "@lerna2/init": "^0.0.3",
+    "@lerna2/cli": "^0.0.4",
+    "@lerna2/create": "^0.0.4",
+    "@lerna2/init": "^0.0.4",
     "fs-extra": "^10.0.0",
     "init-package-json": "^2.0.5",
     "path": "^0.12.7",
