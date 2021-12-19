@@ -23,6 +23,7 @@ class CreateCommand {
     this.targetDir = targetDir;
     await this.createlibDir();
     await this.createtestDir();
+    console.log("创建")
     //  第二个参数一定要
     await initPackageJson(this.targetDir, "")
   }
