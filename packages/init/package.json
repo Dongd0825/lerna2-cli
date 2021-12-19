@@ -7,7 +7,6 @@
   ],
   "author": "dongdi <dongdi@p1staff.com>",
   "homepage": "",
-  "license": "ISC",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -18,6 +17,7 @@
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
   },
+  "license": "MIT",
   "scripts": {
     "test": "jest"
   },
@@ -27,5 +27,5 @@
     "path": "^0.12.7",
     "pify": "^5.0.0"
   },
-  "gitHead": "afe7a0364b83b5be50ad76ff5fad1aa9fe3fe5f8"
+  "gitHead": "61373be19d4bba32eba0ab8d451ade50295d3110"
 }
